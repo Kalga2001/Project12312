@@ -1,0 +1,15 @@
+C:\Users\Misha\Desktop\OnlineShop\OnlineShop.Application\bin\Debug\net6.0\OnlineShop.Application.deps.json
+C:\Users\Misha\Desktop\OnlineShop\OnlineShop.Application\bin\Debug\net6.0\OnlineShop.Application.dll
+C:\Users\Misha\Desktop\OnlineShop\OnlineShop.Application\bin\Debug\net6.0\OnlineShop.Application.pdb
+C:\Users\Misha\Desktop\OnlineShop\OnlineShop.Application\bin\Debug\net6.0\OnlineShop.Domain.dll
+C:\Users\Misha\Desktop\OnlineShop\OnlineShop.Application\bin\Debug\net6.0\OnlineShop.Domain.pdb
+C:\Users\Misha\Desktop\OnlineShop\OnlineShop.Application\obj\Debug\net6.0\OnlineShop.Application.csproj.AssemblyReference.cache
+C:\Users\Misha\Desktop\OnlineShop\OnlineShop.Application\obj\Debug\net6.0\OnlineShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misha\Desktop\OnlineShop\OnlineShop.Application\obj\Debug\net6.0\OnlineShop.Application.AssemblyInfoInputs.cache
+C:\Users\Misha\Desktop\OnlineShop\OnlineShop.Application\obj\Debug\net6.0\OnlineShop.Application.AssemblyInfo.cs
+C:\Users\Misha\Desktop\OnlineShop\OnlineShop.Application\obj\Debug\net6.0\OnlineShop.Application.csproj.CoreCompileInputs.cache
+C:\Users\Misha\Desktop\OnlineShop\OnlineShop.Application\obj\Debug\net6.0\OnlineShop.Application.csproj.CopyComplete
+C:\Users\Misha\Desktop\OnlineShop\OnlineShop.Application\obj\Debug\net6.0\OnlineShop.Application.dll
+C:\Users\Misha\Desktop\OnlineShop\OnlineShop.Application\obj\Debug\net6.0\refint\OnlineShop.Application.dll
+C:\Users\Misha\Desktop\OnlineShop\OnlineShop.Application\obj\Debug\net6.0\OnlineShop.Application.pdb
+C:\Users\Misha\Desktop\OnlineShop\OnlineShop.Application\obj\Debug\net6.0\ref\OnlineShop.Application.dll
